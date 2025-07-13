@@ -43,8 +43,7 @@ The HR department wants to analyze:
 ---
 
 ## 📸 Dashboard Preview
-
-![Dashboard Preview](screenshots/hr_dashboard_preview.png)
+<img width="1000" height="1000" alt="HR_analytics" src="https://github.com/user-attachments/assets/c7d1f829-9869-4135-86f3-7e719bdec238" />
 
 ---
 
@@ -76,5 +75,5 @@ The HR department wants to analyze:
 - 🤒 **SL%** peaked at 3.80% in late June
 - 👤 Some employees had **100% WFH** (e.g., Thanos Thakur)
 
-<img width="1000" height="1000" alt="HR_analytics" src="https://github.com/user-attachments/assets/c7d1f829-9869-4135-86f3-7e719bdec238" />
+
 
